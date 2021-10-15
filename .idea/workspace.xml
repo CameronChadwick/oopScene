@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38310619-bfdb-485e-99d6-7e5b10f8655f" name="Changes" comment="sky and grass working">
+    <list default="true" id="38310619-bfdb-485e-99d6-7e5b10f8655f" name="Changes" comment="house almost done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -64,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633441116003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="house almost done">
+      <created>1633613962847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633613962847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sky and grass working" />
-    <option name="LAST_COMMIT_MESSAGE" value="sky and grass working" />
+    <MESSAGE value="house almost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="house almost done" />
   </component>
 </project>
